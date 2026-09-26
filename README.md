@@ -1,8 +1,8 @@
 # OOP_HORSE_RACE
 
-```mermaid
+mermaid
 class diagram
-
+```
 class Horse{
     int position
     int index
